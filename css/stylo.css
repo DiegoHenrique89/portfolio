@@ -75,7 +75,6 @@ body{
 .home .redes-sociais{
     display: flex;
     gap: 20px;
-    display: flex;
     align-items: center;
     justify-content: center;
 }
@@ -143,6 +142,7 @@ body{
     padding: 15px 10px 10px ;
     position: absolute;/*Position(filho) so aplica quando e usado o relative(Pai) e ele coloca um item sobre o outro*/
     bottom: 0;
+    text-align: center;
 }
 .projetos .projeto .informacoes-projeto{
     position: absolute;
